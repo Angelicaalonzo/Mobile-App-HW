@@ -30,7 +30,7 @@
             },
             props.itemtwo),
 
-            React.createElement('button', 
+            React.createElement('input', 
             {
                 className: "btn btn-outline-primary",
                 type: "submit",
